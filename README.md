@@ -1,7 +1,4 @@
 
-<h1>
-<img src="https://mariocrespo.es/wp-content/uploads/2020/04/LogoResized.png" width="40" align="center"> Mario Crespo
-</h1>
 
 ![Static Badge](https://img.shields.io/badge/Audio_Engineer-Computer_Scientist-orange)
 
